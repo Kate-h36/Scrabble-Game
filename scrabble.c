@@ -44,6 +44,3 @@ for (int i = 0, len = strlen(word); i < len; i++)
     }
 return score;
 }
-
-
-
