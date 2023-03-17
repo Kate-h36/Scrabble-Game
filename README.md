@@ -52,3 +52,12 @@ Player 1: Scrabble
 Player 2: wiNNeR
 Player 1 wins!
 ```
+
+##  Usage 
+
+### Prerequisites
+* C compiler(clang, gcc e.t.c)
+* CS50 Library for C languge. Detailed installation process can be found here(https://cs50.readthedocs.io/libraries/cs50/c/)
+
+### Istallation
+1. Clone the Repository
