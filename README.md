@@ -57,9 +57,21 @@ Player 1 wins!
 
 ### Prerequisites
 * C compiler(clang, gcc e.t.c)
-* CS50 Library for C languge. Detailed installation process can be found here(https://cs50.readthedocs.io/libraries/cs50/c/)
+* CS50 Library for C languge. 
+ Detailed installation process can be found here: (https://cs50.readthedocs.io/libraries/cs50/c/)
 
 ### Istallation
 1. Clone the Repository
 ```
-git clone 
+git clone https://github.com/Kate-h36/Scrabble-Game.git
+```
+2. Compile and link the program
+```
+clang -o scrabble scrabble.c -lcs50
+```
+3. Run the program 
+```
+make scrabble
+./scrabble
+```
+
