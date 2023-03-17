@@ -5,7 +5,7 @@ The program prompts the users to input words played by each player and computes 
 based on the point values of the tiles used in the words.
 
  * [Rules of the Game](https://github.com/Kate-h36/Scrabble-Game/blob/main/README.md#rules-of-the-game)
- * [Quick Start]
+ * [Quick Start](https://github.com/Kate-h36/Scrabble-Game/blob/main/README.md#quick-start)
  * [Examples]
  * [Usage]
  * [Description of Algorithm]
