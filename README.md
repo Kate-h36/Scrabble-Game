@@ -28,7 +28,9 @@ Summuring this you get that word `Code` is worth `3 + 1 + 2 + 1 = 7` points.
 
 ## Examples
 
-`$ ./scrabble
+```
+$ ./scrabble
 Player 1: Question?
 Player 2: Question!
-Tie!`
+Tie!
+```
