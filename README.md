@@ -6,7 +6,7 @@ based on the point values of the tiles used in the words.
 
  * [Rules of the Game](https://github.com/Kate-h36/Scrabble-Game/blob/main/README.md#rules-of-the-game)
  * [Quick Start](https://github.com/Kate-h36/Scrabble-Game/blob/main/README.md#quick-start)
- * [Examples]
+ * [Examples](https://github.com/Kate-h36/Scrabble-Game/blob/main/README.md#examples)
  * [Usage]
  * [Description of Algorithm]
 
