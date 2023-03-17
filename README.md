@@ -4,7 +4,7 @@ This is a simple C program that calculates the score of two players in a game of
 The program prompts the users to input words played by each player and computes the total score for each player 
 based on the point values of the tiles used in the words.
 
-* [Rules of the Game]
+* [Rules of the Game] (https://github.com/Kate-h36/Scrabble-Game/blob/main/README.md#rules-of-the-game)
 * [Quick Start]
 * [Examples]
 * [Usage]
