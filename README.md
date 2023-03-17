@@ -7,7 +7,7 @@ based on the point values of the tiles used in the words.
  * [Rules of the Game](https://github.com/Kate-h36/Scrabble-Game/blob/main/README.md#rules-of-the-game)
  * [Quick Start](https://github.com/Kate-h36/Scrabble-Game/blob/main/README.md#quick-start)
  * [Examples](https://github.com/Kate-h36/Scrabble-Game/blob/main/README.md#examples)
- * [Usage]
+ * [Usage](https://github.com/Kate-h36/Scrabble-Game/blob/main/README.md#istallation)
  * [Description of Algorithm]
 
 ## Rules of the Game 
@@ -58,7 +58,7 @@ Player 1 wins!
 ### Prerequisites
 * C compiler(clang, gcc e.t.c)
 * CS50 Library for C languge. 
- Detailed installation process can be found here: (https://cs50.readthedocs.io/libraries/cs50/c/)
+ Detailed installation process can be found here: https://cs50.readthedocs.io/libraries/cs50/c/
 
 ### Istallation
 1. Clone the Repository
