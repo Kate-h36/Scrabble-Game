@@ -25,3 +25,10 @@ Summuring this you get that word `Code` is worth `3 + 1 + 2 + 1 = 7` points.
 1. Enter the words played by Player 1 and press Enter.
 2. Enter the words played by Player 2 and press Enter.
 3. The program will compute and print the score for each player and declare the winner.
+
+## Examples
+
+`$ ./scrabble
+Player 1: Question?
+Player 2: Question!
+Tie!`
