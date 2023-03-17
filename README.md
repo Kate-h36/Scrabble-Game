@@ -75,3 +75,6 @@ make scrabble
 ./scrabble
 ```
 
+## Description of Algorithm
+
+The program uses an algorithm to calculate the score for each player. For each word played by a player, the program loops through each letter in the word and looks up its point value in a predefined array. The program then sums the point values for each letter in the word, and applies any bonus scores (e.g., double or triple letter scores) as necessary. Finally, the program adds the word score to the player's total score. The player with the highest total score is declared the winner.
