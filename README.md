@@ -14,7 +14,7 @@ based on the point values of the tiles used in the words.
 
 in the game of Scrabble, players create words to score points, 
 and the number of points is the sum of the point values of each letter in the word.
-For example, if we wanted to score the word `Code`
+For example, if you wanted to score the word `Code`
 you would note that in general Scrabble rules, character `С` is worth `3`points
 the `o` is worth `1` point, the `d` is worth `2` points 
 and the `e` is worth `1` point
