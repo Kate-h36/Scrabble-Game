@@ -4,6 +4,7 @@
 
 This was created as soiution for Lab Work #2 of CS50 Course Scrabble Game:
 https://cs50.harvard.edu/x/2023/labs/2/
+This is scrabble game
 
 This is a simple C program that calculates the score of two players in a game of Scrabble. 
 The program prompts the users to input words played by each player and computes the total score for each player 
